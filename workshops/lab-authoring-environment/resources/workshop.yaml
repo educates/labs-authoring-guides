@@ -99,6 +99,7 @@ spec:
             name: vcluster
             repository:
               url: https://charts.loft.sh
+            version: "0.19.7"
         template:
         - helmTemplate:
             name: admin-vcluster
